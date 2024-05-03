@@ -1,0 +1,43 @@
+
+.botaoSalvar {
+    background: rgb(0, 0, 0);
+    background-image: radial-gradient(circle, rgb(0, 0, 0) 0%, rgb(219, 223, 230)100%);
+    padding: 10px 20px;
+    border: none;
+    font-weight: bolder;
+}
+
+.botaoNovoRegistro {
+    background: rgb(0, 0, 0);
+    background-image: radial-gradient(circle, rgba(0, 0, 0) 0%, rgb(129, 27, 27)100%);
+    padding: 10px 20px;
+    border: none;
+    font-weight: bolder;
+}
+
+.desabilitado {
+    background-color: rgb(79, 92, 116);
+}
+
+.btn.btn-secondary{
+    margin-top: 10px;
+    font-size: large;
+}
+
+.editar-btn {
+    background-color: #7d8083;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.excluir-btn {
+    background-color: #0e0d0d;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
